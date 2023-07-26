@@ -1,0 +1,1 @@
+﻿namespace FullStackAI.Stack.CS;
